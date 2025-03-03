@@ -1,0 +1,127 @@
+**Detailed Website Plan for "Thirty Minutes With"**
+
+---
+
+### **1. Website Structure**
+#### **Homepage**
+- **Hero Section**: 
+  - Background video or dynamic image showcasing the show’s theme.
+  - Tagline: “Explore Careers, Discover Passions.”
+  - Call-to-Action (CTA): “Watch Latest Episode” + YouTube/Spotify buttons.
+- **The Three Pillars**:
+  - Cards explaining "The Why," "The What," and "The How" with icons and brief descriptions.
+- **Featured Episodes**:
+  - 3-4 grid cards with thumbnails, titles, guest names, and quick links to platforms.
+- **Testimonials**:
+  - Quotes from listeners (e.g., “This show changed my career perspective!”).
+- **Subscribe Section**:
+  - Email newsletter signup + social media links.
+
+#### **Episodes Page**
+- **Filters**: Search bar, categories (e.g., “Tech,” “Healthcare”), and sorting (newest/popular).
+- **Episode Grid**:
+  - Thumbnail, title, guest name, career field, short summary.
+  - Links to YouTube (embedded preview) and Spotify.
+- **Pagination**: Load more episodes as the library grows.
+
+#### **About Page**
+- **Mission Statement**: “To demystify careers through authentic conversations.”
+- **Host Bio**: Photo, background, and passion for career exploration.
+- **Deep Dive into Pillars**:
+  - Expand on "Why," "What," and "How" with examples from past episodes.
+- **Collaboration Callout**: Encourage guests to apply (link to Contact page).
+
+#### **Contact Page**
+- **Collaboration Form**:
+  - Fields: Name, email, profession, message.
+  - Checkbox: “Interested in being a guest.”
+- **Social Links**: YouTube, Spotify, Instagram, LinkedIn.
+- **FAQ**: Common questions about the show or submissions.
+
+---
+
+### **2. Technology Stack**
+- **Front-End**:
+  - **Framework**: Bootstrap 5 for responsiveness.
+  - **Media**: Lazy-loading images and embedded YouTube trailers.
+  - **Interactive Elements**: JavaScript for filters/search.
+- **Back-End**:
+  - **CMS**: WordPress for easy episode updates (using Custom Post Types).
+  - **Hosting**: SiteGround (optimized for WordPress).
+  - **Plugins**: SEO Yoast, Contact Form 7, Newsletter Subscription.
+- **SEO & Analytics**:
+  - Schema markup for episodes, Google Search Console, and Google Analytics.
+
+---
+
+### **3. Design Elements**
+- **Color Palette**:
+  - Primary: Navy Blue (#2C3E50) for professionalism.
+  - Accent: Gold (#F1C40F) for warmth.
+- **Typography**:
+  - **Headers**: Playfair Display (serif for elegance).
+  - **Body**: Open Sans (clean and readable).
+- **Imagery**:
+  - High-quality photos of host/guests, career-related visuals (e.g., stethoscopes, laptops).
+- **UI/UX**:
+  - Sticky navigation, smooth scroll, and clear CTAs.
+
+---
+
+### **4. Content Plan**
+- **Copywriting**:
+  - Homepage: Punchy, engaging text highlighting the show’s value.
+  - Episodes: Concise summaries with keywords (e.g., “How to become a software engineer”).
+- **Media**:
+  - Episode thumbnails with consistent branding (e.g., show logo + guest photo).
+  - Host bio video (1-2 mins intro on About page).
+- **SEO Content**:
+  - Blog section (future phase) for career guides and episode takeaways.
+
+---
+
+### **5. Development Steps**
+1. **Wireframe**: Sketch layouts for all pages (Figma/Adobe XD).
+2. **Design Mockups**: Finalize colors, fonts, and UI elements.
+3. **Front-End Build**: Code HTML/CSS/JS; integrate Bootstrap.
+4. **Back-End Setup**: Install WordPress, configure CMS for episodes.
+5. **Testing**:
+   - Cross-browser (Chrome, Safari, Firefox).
+   - Mobile responsiveness (iPhone, Android).
+   - Speed optimization (compress images, caching).
+6. **Launch**: Domain setup (e.g., thirtyminuteswith.com), SSL certificate.
+7. **Post-Launch**: Submit sitemap to Google, set up analytics.
+
+---
+
+### **6. Maintenance**
+- **Weekly**:
+  - Upload new episodes to WordPress, share on socials.
+  - Backup website and update plugins.
+- **Monthly**:
+  - Check SEO rankings, update keyword strategy.
+  - Refresh featured episodes on the homepage.
+- **Quarterly**:
+  - Audit site speed and security.
+
+---
+
+### **Mockup Sitemap**
+```
+Homepage
+│
+├── Episodes
+│   ├── [Career Category]
+│   └── [Single Episode]
+├── About
+│   ├── Mission
+│   ├── Host Bio
+│   └── Pillars
+└── Contact
+    ├── Collaboration Form
+    └── Social Links
+```
+
+---
+
+This plan balances user engagement, technical robustness, and scalability. Let’s start with wireframing and content collection! 🚀
